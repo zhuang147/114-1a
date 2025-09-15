@@ -12,3 +12,4 @@
 
 ---
 [高科大資管系](https://mis.nkust.edu.tw/)
+![nkust](nkust.png "高科大")
